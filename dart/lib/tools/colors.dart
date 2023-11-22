@@ -1,4 +1,4 @@
-String colorText(int color, String text) {
+String colorText(String text, int color) {
   return '\x1B[${color}m$text\x1B[0m';
 }
 
