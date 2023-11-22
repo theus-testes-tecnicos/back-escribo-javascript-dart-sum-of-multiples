@@ -1,11 +1,13 @@
-const { stdout, stdin } = require("process");
-const { colorText } = require("./src/actions/colors.js");
+const { Console } = require("./src/console.js");
+const { welcomeText, instructions } = require("./src/texts.js");
 
-stdout.write(colorText("Bem-vindo(a) a soma dos múltiplos\n", 33));
-stdout.write("Digite um número: ");
+const main = async () => {
+  Console.write(welcomeText, { skipLine: true, quantLines: 2 });
+  instructions.forEach((instruction) => Console.write(instruction));
 
-stdin.once("data", (data) => {
-  const userInput = data.toString().trim();
-  console.log(`Você digitou: ${userInput}`);
-  process.stdin.destroy();
-});
+  const value = await Console.readInt("Digite um número: ");
+
+  console.log("digitou: ", value);
+};
+
+main();
