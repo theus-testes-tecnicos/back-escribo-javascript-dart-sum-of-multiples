@@ -1,5 +1,5 @@
-import 'package:dart/dart.dart' as dart;
+import 'package:dart/app/sum_of_multiples.dart' show SumOfMultiples;
 
 void main(List<String> arguments) {
-  print('Hello world: ${dart.calculate()}!');
+  return print(SumOfMultiples.start());
 }
