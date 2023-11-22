@@ -1,10 +1,10 @@
 {
   "name": "back-escribo-javascript-dart-sum-of-multiples",
   "version": "1.0.0",
-  "description": "",
+  "description": "Teste técnico para vaga de desenvolvedor backend",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "js": "node javascript/index.js"
   },
   "keywords": [],
   "author": "",
