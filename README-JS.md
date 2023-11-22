@@ -1,6 +1,6 @@
 # Soma dos Múltiplos [JavaScript]
 
-Projeto console para o teste técnico da empresa Escribo, para ver detalhes do enunciado acesse o arquivo [README-QUESTION.md]("https://github.com/theus-testes-tecnicos/back-escribo-javascript-dart-sum-of-multiples/blob/main/README-QUESTION.md")
+Projeto console para o teste técnico da empresa Escribo, para ver detalhes do enunciado acesse o arquivo [README-QUESTION.md]("README-QUESTION.md")
 
 Este projeto foi desenvolvido por Matheus Vieira:
 
