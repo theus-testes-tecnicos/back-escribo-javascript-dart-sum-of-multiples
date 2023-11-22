@@ -4,7 +4,8 @@
   "description": "Teste técnico para vaga de desenvolvedor backend",
   "main": "index.js",
   "scripts": {
-    "js": "node javascript/index.js"
+    "js": "node javascript/index.js",
+    "dart": "dart run dart/main.dart"
   },
   "keywords": [],
   "author": "",
