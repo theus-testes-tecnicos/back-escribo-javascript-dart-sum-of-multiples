@@ -7,11 +7,8 @@ const main = async () => {
   instructions.forEach((instruction) => Console.write(instruction));
 
   const value = await Console.readInt("Digite um número: ");
-
   const multiples = getMultiples(value);
-
   const result = calculateSumOfMultiples(multiples);
-
   const textsResponse = response(value, multiples, result);
 
   textsResponse.forEach((text) => Console.write(text));
