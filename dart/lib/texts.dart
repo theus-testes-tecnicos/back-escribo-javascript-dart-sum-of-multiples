@@ -1,6 +1,6 @@
 import 'colors.dart' show colorText;
 
-String welcomeText = colorText("Bem-vindo(a) a soma dos múltiplos", 32);
+String welcomeText = colorText("Bem-vindo(a) a soma dos múltiplos!", 32);
 
 List<String> instructions = [
   colorText("==========================================================", 36),
