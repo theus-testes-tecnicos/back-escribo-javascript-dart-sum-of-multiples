@@ -1,0 +1,12 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Teste técnico para vaga de desenvolvedor backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "keywords": [],
+  "author": "Matheus Vieira",
+  "license": "ISC"
+}

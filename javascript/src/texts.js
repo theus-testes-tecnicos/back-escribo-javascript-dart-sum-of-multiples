@@ -1,6 +1,6 @@
 const { colorText } = require("./colors.js");
 
-const welcomeText = colorText("Bem-vindo(a) a soma dos múltiplos", 32, {
+const welcomeText = colorText("Bem-vindo(a) a soma dos múltiplos!", 32, {
   bold: true,
 });
 
