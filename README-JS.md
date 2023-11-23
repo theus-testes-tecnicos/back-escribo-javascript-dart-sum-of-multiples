@@ -11,6 +11,7 @@ Basicamente você precisará de 2 ferramentas, sendo elas:
 
 * [Node.JS](https://nodejs.org/en)
 * NPM (Já vem instalado com o Node.JS)
+* [GIT](https://git-scm.com/downloads)
 
 ## Como rodar a aplicação?
 

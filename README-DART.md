@@ -7,9 +7,10 @@ Para ver detalhes do enunciado acesse o arquivo [README-QUESTION.md](https://git
 
 ## O que eu preciso para rodar o projeto?
 
-A única ferramenta que irá precisar para rodar o projeto é o [SDK do Dart](https://dart.dev/get-dart).
+Para rodar o projeto em Dart você precisará das seguintes ferramentas:
 
-Como uma OPÇÃO, você pode instalar o [Flutter](https://docs.flutter.dev/get-started/install) que é o Framework de Dart do Google. Instalando ele, você também instala junto o SDK do Dart.
+* [SDK do Dart](https://dart.dev/get-dart). Como uma OPÇÃO, você pode instalar o [Flutter](https://docs.flutter.dev/get-started/install) que é o Framework de Dart do Google. Instalando ele, você também instala junto o SDK do Dart.
+* [GIT](https://git-scm.com/downloads)
 
 ## Como rodar a aplicação?
 
