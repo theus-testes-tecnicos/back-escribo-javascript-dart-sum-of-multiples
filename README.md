@@ -49,6 +49,7 @@ Caso não funcione com o passo-a-passo demonstrado acima, você poderá executar
 
 * Quero rodar o projeto em [Javascript](https://github.com/theus-testes-tecnicos/back-escribo-javascript-dart-sum-of-multiples/blob/main/javascript/README-JS.md).
 * Quero rodar o projeto em [Dart](https://github.com/theus-testes-tecnicos/back-escribo-javascript-dart-sum-of-multiples/blob/main/dart/README-DART.md).
+* Quero rodar o projeto em [Typescript](https://github.com/theus-testes-tecnicos/back-escribo-javascript-dart-sum-of-multiples/blob/main/typescript/README-TS.md)
 
 Qualquer dúvida pode entrar em contato pelo [linkedin](https://www.linkedin.com/in/th-matheus) ou [whatsapp](https://wa.me/558196336588)
 
