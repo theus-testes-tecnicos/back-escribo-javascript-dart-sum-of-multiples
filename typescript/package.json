@@ -1,0 +1,17 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Teste técnico para vaga de desenvolvedor backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env ts-node-dev --ignore-watch node_modules app/index.ts"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.2"
+  },
+  "keywords": [],
+  "author": "Matheus Vieira",
+  "license": "ISC"
+}
