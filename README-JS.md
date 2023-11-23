@@ -5,7 +5,7 @@ Projeto console para o teste técnico da empresa Escribo, escrito em Node.JS (Ja
 Para ver detalhes do enunciado acesse o arquivo [README-QUESTION.md](https://github.com/theus-testes-tecnicos/back-escribo-javascript-dart-sum-of-multiples/blob/main/README-QUESTION.md).
 
 
-## O que eu preciso para rodar o javascript
+## O que eu preciso para rodar o projeto?
 
 Basicamente você precisará de 2 ferramentas, sendo elas:
 
@@ -24,7 +24,7 @@ Para rodar a aplicação, depois de certificar que o Node.JS está instalado cor
      ```bash
      cd javascript
      ```
-* Execute a aplicação
+* Execute a aplicação de dentro da pasta javascript
      ```bash
      npm run start
      ```
