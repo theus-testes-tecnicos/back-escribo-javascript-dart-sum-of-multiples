@@ -7,7 +7,7 @@ Para ver detalhes do enunciado acesse o arquivo [README-QUESTION.md](https://git
 
 ## O que eu preciso para rodar o projeto?
 
-Basicamente você precisará de 2 ferramentas, sendo elas:
+Basicamente você precisará de:
 
 * [Node.JS](https://nodejs.org/en)
 * NPM (Já vem instalado com o Node.JS)
