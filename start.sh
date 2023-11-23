@@ -1,6 +1,6 @@
 #!/bin/bash
 
-opcoes=("JavaScript" "Dart")
+opcoes=("JavaScript" "Dart" "Typescript")
 opcao_selecionada=0
 
 while true; do
@@ -24,15 +24,25 @@ while true; do
     "B")
       opcao_selecionada=$((opcao_selecionada+1))
       ;;
+    "C")
+      opcao_selecionada=$((opcao_selecionada+2))
+      ;;
     "")
       case $opcao_selecionada in
         0)
           cd javascript
+          npm install
           npm run start
           ;;
         1)
           cd dart
+          dart pub get
           dart run
+          ;;
+        2)
+          cd typescript
+          npm install
+          npm run start
           ;;
       esac
       break
